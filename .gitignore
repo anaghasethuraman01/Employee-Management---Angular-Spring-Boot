@@ -34,4 +34,4 @@ out/
 
 # --- Sensitive Data ---
 # If you decide to use a local properties file instead of environment variables:
-# springboot-backend/src/main/resources/application.properties
+springboot-backend/src/main/resources/application.properties
