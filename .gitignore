@@ -1,0 +1,37 @@
+# --- OS Related ---
+.DS_Store
+.AppleDouble
+.LSOverride
+Thumbs.db
+
+# --- Angular Frontend ---
+angular-frontend/node_modules/
+angular-frontend/dist/
+angular-frontend/.angular/
+angular-frontend/.cache/
+angular-frontend/npm-debug.log*
+angular-frontend/yarn-error.log*
+angular-frontend/.editorconfig
+angular-frontend/.vscode/
+
+# --- Spring Boot Backend ---
+springboot-backend/target/
+springboot-backend/*.jar
+springboot-backend/*.war
+springboot-backend/*.ear
+springboot-backend/.mvn/wrapper/maven-wrapper.jar
+springboot-backend/.classpath
+springboot-backend/.project
+springboot-backend/.settings/
+springboot-backend/bin/
+
+# --- IntelliJ/IDE Related ---
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# --- Sensitive Data ---
+# If you decide to use a local properties file instead of environment variables:
+# springboot-backend/src/main/resources/application.properties
